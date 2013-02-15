@@ -1,0 +1,10 @@
+Package: [[artifactId]]
+Version: [[version]]
+Section: devel
+Priority: extra
+Architecture: amd64
+Distribution: stable
+Depends: sun-java6-jdk
+Maintainer: Patrick Duin <partick@last.fm>
+Description: [[name]]
+ [[description]] 

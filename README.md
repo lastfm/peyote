@@ -12,10 +12,12 @@ All of the work was based on cacti version 0.8.7g.
 
 #Building
 This project uses the [Maven](http://maven.apache.org/) build system.
+
 Build:
-mvn assembly:single
+        mvn assembly:single
+
 Run:
-java -jar target/peyote-1.0-SNAPSHOT-jar-with-dependencies.jar	
+        java -jar target/peyote-1.0-SNAPSHOT-jar-with-dependencies.jar	
 
 # Contributing
 All contributions are welcome. Please use the [Last.fm codeformatting profile](	) found in the `lastfm-oss-config` project for formatting your changes.
